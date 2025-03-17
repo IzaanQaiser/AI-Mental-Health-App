@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MoodAnalyzerAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+403c5aa44cce0e6d8d996d57f203ebc89aed06de")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6dd7ec2bf2e938c785deda1a56ede4cead84b042")]
 [assembly: System.Reflection.AssemblyProductAttribute("MoodAnalyzerAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MoodAnalyzerAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

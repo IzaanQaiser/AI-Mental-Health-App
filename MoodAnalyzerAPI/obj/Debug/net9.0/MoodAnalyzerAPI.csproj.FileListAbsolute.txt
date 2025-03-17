@@ -32,3 +32,17 @@
 /Users/izaan/Desktop/Projects/Full_Stack_Web_Development/AI_Mental_Health_Application/MoodAnalyzerAPI/obj/Debug/net9.0/MoodAnalyzerAPI.pdb
 /Users/izaan/Desktop/Projects/Full_Stack_Web_Development/AI_Mental_Health_Application/MoodAnalyzerAPI/obj/Debug/net9.0/MoodAnalyzerAPI.genruntimeconfig.cache
 /Users/izaan/Desktop/Projects/Full_Stack_Web_Development/AI_Mental_Health_Application/MoodAnalyzerAPI/obj/Debug/net9.0/ref/MoodAnalyzerAPI.dll
+/Users/izaan/Desktop/Projects/Full_Stack_Web_Development/AI_Mental_Health_Application/MoodAnalyzerAPI/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/Users/izaan/Desktop/Projects/Full_Stack_Web_Development/AI_Mental_Health_Application/MoodAnalyzerAPI/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/izaan/Desktop/Projects/Full_Stack_Web_Development/AI_Mental_Health_Application/MoodAnalyzerAPI/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/izaan/Desktop/Projects/Full_Stack_Web_Development/AI_Mental_Health_Application/MoodAnalyzerAPI/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/izaan/Desktop/Projects/Full_Stack_Web_Development/AI_Mental_Health_Application/MoodAnalyzerAPI/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/izaan/Desktop/Projects/Full_Stack_Web_Development/AI_Mental_Health_Application/MoodAnalyzerAPI/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/izaan/Desktop/Projects/Full_Stack_Web_Development/AI_Mental_Health_Application/MoodAnalyzerAPI/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/izaan/Desktop/Projects/Full_Stack_Web_Development/AI_Mental_Health_Application/MoodAnalyzerAPI/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/Users/izaan/Desktop/Projects/Full_Stack_Web_Development/AI_Mental_Health_Application/MoodAnalyzerAPI/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/izaan/Desktop/Projects/Full_Stack_Web_Development/AI_Mental_Health_Application/MoodAnalyzerAPI/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/Users/izaan/Desktop/Projects/Full_Stack_Web_Development/AI_Mental_Health_Application/MoodAnalyzerAPI/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/izaan/Desktop/Projects/Full_Stack_Web_Development/AI_Mental_Health_Application/MoodAnalyzerAPI/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/izaan/Desktop/Projects/Full_Stack_Web_Development/AI_Mental_Health_Application/MoodAnalyzerAPI/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/izaan/Desktop/Projects/Full_Stack_Web_Development/AI_Mental_Health_Application/MoodAnalyzerAPI/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -8,7 +8,7 @@ namespace MoodAnalyzerAPI.Models
         public int SleepQuality { get; set; }
         public int StressLevel { get; set; }
         public int ExerciseLevel { get; set; }
-        public string JournalText { get; set; }
+        public string JournalText { get; set; } = string.Empty;
         public double SentimentScore { get; set; }
     }
 }
