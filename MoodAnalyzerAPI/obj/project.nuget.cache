@@ -1,10 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "62wctNvlkRQ=",
+  "dgSpecHash": "DzKjIKUui6k=",
   "success": true,
   "projectFilePath": "/Users/izaan/Desktop/Projects/Full_Stack_Web_Development/AI_Mental_Health_Application/MoodAnalyzerAPI/MoodAnalyzerAPI.csproj",
   "expectedPackageFiles": [
     "/Users/izaan/.nuget/packages/microsoft.aspnetcore.openapi/9.0.3/microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
+    "/Users/izaan/.nuget/packages/microsoft.entityframeworkcore/9.0.3/microsoft.entityframeworkcore.9.0.3.nupkg.sha512",
+    "/Users/izaan/.nuget/packages/microsoft.entityframeworkcore.abstractions/9.0.3/microsoft.entityframeworkcore.abstractions.9.0.3.nupkg.sha512",
+    "/Users/izaan/.nuget/packages/microsoft.entityframeworkcore.analyzers/9.0.3/microsoft.entityframeworkcore.analyzers.9.0.3.nupkg.sha512",
+    "/Users/izaan/.nuget/packages/microsoft.entityframeworkcore.inmemory/9.0.3/microsoft.entityframeworkcore.inmemory.9.0.3.nupkg.sha512",
+    "/Users/izaan/.nuget/packages/microsoft.extensions.caching.abstractions/9.0.3/microsoft.extensions.caching.abstractions.9.0.3.nupkg.sha512",
+    "/Users/izaan/.nuget/packages/microsoft.extensions.caching.memory/9.0.3/microsoft.extensions.caching.memory.9.0.3.nupkg.sha512",
+    "/Users/izaan/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.3/microsoft.extensions.dependencyinjection.9.0.3.nupkg.sha512",
+    "/Users/izaan/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.3/microsoft.extensions.dependencyinjection.abstractions.9.0.3.nupkg.sha512",
+    "/Users/izaan/.nuget/packages/microsoft.extensions.logging/9.0.3/microsoft.extensions.logging.9.0.3.nupkg.sha512",
+    "/Users/izaan/.nuget/packages/microsoft.extensions.logging.abstractions/9.0.3/microsoft.extensions.logging.abstractions.9.0.3.nupkg.sha512",
+    "/Users/izaan/.nuget/packages/microsoft.extensions.options/9.0.3/microsoft.extensions.options.9.0.3.nupkg.sha512",
+    "/Users/izaan/.nuget/packages/microsoft.extensions.primitives/9.0.3/microsoft.extensions.primitives.9.0.3.nupkg.sha512",
     "/Users/izaan/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
   ],
   "logs": []

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ElDKRszL4bDhnR2rt1WizTDNcHkobIDfPkZFYJpVKao=",
+  "Source": "MoodAnalyzerAPI",
+  "BasePath": "_content/MoodAnalyzerAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
