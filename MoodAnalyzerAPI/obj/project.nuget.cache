@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "62wctNvlkRQ=",
+  "success": true,
+  "projectFilePath": "/Users/izaan/Desktop/Projects/Full_Stack_Web_Development/AI_Mental_Health_Application/MoodAnalyzerAPI/MoodAnalyzerAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/izaan/.nuget/packages/microsoft.aspnetcore.openapi/9.0.3/microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
+    "/Users/izaan/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
